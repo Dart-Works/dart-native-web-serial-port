@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/biiiserial.c
+biiiserial.h
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/biiiserial.h
+fcntl.h
+-
+io.h
+-
+stdbool.h
+-
+stdint.h
+-
+stdio.h
+-
+windows.h
+-
+
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/biiiserial.h
+stdbool.h
+-
+stdint.h
+-
+

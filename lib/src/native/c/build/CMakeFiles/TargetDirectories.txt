@@ -1,0 +1,4 @@
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build/CMakeFiles/biiiserial_library.dir
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build/CMakeFiles/biiiserial_test.dir
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build/CMakeFiles/edit_cache.dir
+E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build/CMakeFiles/rebuild_cache.dir

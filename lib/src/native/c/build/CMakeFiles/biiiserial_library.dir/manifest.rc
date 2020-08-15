@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build/CMakeFiles/biiiserial_library.dir/embed.manifest"

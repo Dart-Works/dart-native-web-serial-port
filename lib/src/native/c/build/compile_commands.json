@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1425~1.286\\bin\\Hostx64\\x64\\cl.exe  /nologo -Dbiiiserial_library_EXPORTS  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\biiiserial_library.dir\\biiiserial.c.obj /FdCMakeFiles\\biiiserial_library.dir/ /FS -c E:\\tools\\vscodium-portable\\data\\appdata\\BiFu\\BiiiSerial\\lib\\src\\native\\c\\biiiserial.c",
+  "file": "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/biiiserial.c"
+},
+{
+  "directory": "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1425~1.286\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\biiiserial_test.dir\\biiiserial.c.obj /FdCMakeFiles\\biiiserial_test.dir/ /FS -c E:\\tools\\vscodium-portable\\data\\appdata\\BiFu\\BiiiSerial\\lib\\src\\native\\c\\biiiserial.c",
+  "file": "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/biiiserial.c"
+}
+]

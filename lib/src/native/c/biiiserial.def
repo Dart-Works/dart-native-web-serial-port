@@ -1,0 +1,7 @@
+LIBRARY   biiiserial
+EXPORTS
+   biiiserial_scan
+   biiiserial_connect
+   biiiserial_send
+   biiiserial_read
+   biiiserial_close

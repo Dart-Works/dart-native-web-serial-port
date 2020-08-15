@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "biiiserial_library",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "biiiserial_library::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-biiiserial_library-Debug-3a29a1e5cae77fbcd93e.json",
+					"name" : "biiiserial_library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "biiiserial_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-biiiserial_test-Debug-ad11d07b988578ea338c.json",
+					"name" : "biiiserial_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c/build",
+		"source" : "E:/tools/vscodium-portable/data/appdata/BiFu/BiiiSerial/lib/src/native/c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

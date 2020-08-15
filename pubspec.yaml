@@ -1,0 +1,17 @@
+name: biiiSerial
+version: 0.0.1
+description: A pure dart cross platform serial port implementation using dart:ffi inspired from JSerialComm
+author: Biii.in <admin@biii.in>
+homepage: https://biii.in
+repository: https://gitlab.com/biii-in/eventizer
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  biiiUtils:
+    path: ../BiiiUtils/
+  js: ^0.6.2
+  ffi: ^0.1.3
+
+dev_dependencies:
