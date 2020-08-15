@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   biiiUtils:
-    path: ../BiiiUtils/
+    git: https://gitlab.com/biii-in/dartplugins/biiiutils
   js: ^0.6.2
   ffi: ^0.1.3
 
