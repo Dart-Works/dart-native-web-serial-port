@@ -3,7 +3,7 @@ version: 0.0.1
 description: A pure dart cross platform serial port implementation using dart:ffi inspired from JSerialComm
 author: Biii.in <admin@biii.in>
 homepage: https://biii.in
-repository: https://gitlab.com/biii-in/eventizer
+repository: https://gitlab.com/biii-in/dartplugins/biiiserial
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
